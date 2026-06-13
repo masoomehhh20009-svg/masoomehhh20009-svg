@@ -18,20 +18,22 @@ Frontend Developer passionate about building modern web applications.
 - React
 - Next.js
 - Tailwind CSS
-- Three.js
 - Git & GitHub
 
 ## 📂 Featured Projects
 
 ### Portfolio Website
+
 A modern personal portfolio built with React and Next.js.
 
 ### Motion Design Project
+
 A showcase website for motion graphics work.
 
 ## 🎯 Current Goals
 
 - Build more real-world projects
+- Learn Three.js
 - Become a professional Frontend Developer
 
 ## 📫 Connect With Me
