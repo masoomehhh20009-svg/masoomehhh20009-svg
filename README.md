@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Masoom 👋
 
-<!--
-**masoomehhh20009-svg/masoomehhh20009-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer passionate about building modern web applications.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning TypeScript
+- ⚛️ Working with React and Next.js
+- 🎨 Interested in UI/UX Design
+- 📚 Improving my English every day
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Tailwind CSS
+- Three.js
+- Git & GitHub
+
+## 📂 Featured Projects
+
+### Portfolio Website
+A modern personal portfolio built with React and Next.js.
+
+### Motion Design Project
+A showcase website for motion graphics work.
+
+## 🎯 Current Goals
+
+- Build more real-world projects
+- Become a professional Frontend Developer
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/fatemeh-masoomeh-95999539b/
+- GitHub: https://github.com/masoomehhh20009-svg
